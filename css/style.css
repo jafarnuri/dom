@@ -1,0 +1,35 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 700px;
+    margin: 60px auto;
+}
+
+table{
+    border: 2px solid black;
+    width: 100%;
+
+    text-align: center;
+    padding: 10px 0px;
+
+}
+
+table thead th{
+    border: 2px solid black;
+    padding: 4px 0px;
+}
+
+
+table tbody td{
+
+    padding: 4px 0px;
+
+    border: 2px solid green !important;
+
+}
+
+
